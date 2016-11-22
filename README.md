@@ -1,4 +1,4 @@
-# rabbitmq_monitor
+# RabbitMQ Simple Queue Alerter
 Simple python script to send pagerduty alerts on queues getting above a threshold size.
 
 ## Usage
